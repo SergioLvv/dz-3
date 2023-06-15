@@ -1,0 +1,40 @@
+{
+	"student":
+	{
+			"fist_name": "John",
+			"age": 21,
+			"driver_licence": null,
+			"married": false,
+			"friends": ["Jane", 21, true, false,"William",20, false, false],
+			"pets": [
+				{
+					"type": "dog",
+					"age": 3,
+					"name": "Buddy",
+					"vaccinated": true,
+					"passport_id": "FD325698",
+					"favorite_toys": [
+						{
+							"type": "Ball",
+							"material": "Rubber"
+						}
+					]
+				},
+				{
+					"type": "cat",
+					"age": 1,
+					"name": "Loki",
+					"vaccinated": true,
+					"passport_id": null,
+					"favorite_toys": [
+						{
+							"type": "Mouse",
+							"material": "cloth"
+						}
+					]
+				}
+				
+			]
+	}
+	
+}
