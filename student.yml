@@ -1,0 +1,27 @@
+student:
+  fist_name: John
+  age: 21
+  driver_licence: null
+  married: false
+  friends:
+    - Jane
+    - William
+  pets:
+    - dog
+    - cat
+  dog:
+    age: 3
+    name: Buddy
+    vaccinated: true
+    passportId: FD325698
+    favorite_toys:
+      type: Ball
+      material: Rubber
+  cat:
+    age: 1,
+    name: Loki
+    vaccinated: true
+    passportId: null
+    favorite_toys:
+      type: Mouse
+      material: cloth		
