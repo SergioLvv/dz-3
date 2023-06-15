@@ -1,0 +1,31 @@
+<?xml version ="1.0" encoding ="UTF-8" ?>
+<student>
+	<object fist_name="John" age="21" >
+			<driver_licence>null</driver_licence>
+			<bool name="married">false</bool>
+			<friends>
+				<name>Charlie</name>
+				<age>21</age>
+				<driver_licence>null</driver_licence>
+				<bool name="married">false</bool>
+			</friends>
+			<friends>
+				<friends firstName="Patriсk" age="22" driver_licence="null" married="No" />
+				<friends firstName="Mark" age="32" driver_licence="ABC 001236" married="Yes" />
+			</friends>
+			<pets>
+				<object type="dog" age="3" name="Buddy" vaccinated="true" passport_id="FD325698">
+					<favorite_toys>
+						<object type="Ball" material="Rubber">
+						</object>
+					</favorite_toys>		
+				</object>
+				<object type="cat" age="1" name="Loki" vaccinated="true" passport_id="FD006634">
+					<favorite_toys>
+						<object type="Mouse" material="cloth">
+						</object>
+					</favorite_toys>		
+				</object>
+			</pets>
+	</object>
+</student>
